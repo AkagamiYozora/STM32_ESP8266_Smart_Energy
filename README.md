@@ -5,7 +5,8 @@ Overview
 
 The combination of STM32 and ESP8266 to monitor electrical energy used by house system.
 
-Moreover, it could also detect back-ward current flow on neutral wire so that admin will be noticed if there was an exceptional current flowing through the system. As an IoT based project, this system also connected to Telegram using WiFi on ESP8266 as its base for easy control and monitor using smartphone. The component used on this project is :
+Moreover, it could also detect back-ward current flow on neutral wire so that admin will be noticed if there was an exceptional current flowing through the system. As an IoT based project, this system also connected to Telegram using WiFi on ESP8266 as its base for easy control and monitor using smartphone.
+Component used on this project:
 1. STM32 F103C8T6
 2. ESP8266
 3. PZEM-004t
@@ -22,7 +23,8 @@ Ringkasan
 
 Penggunaan STM32 dan ESP8266 untuk monitoring energi yang digunakan oleh sistem kelistrikan di rumah.
 
-Selain dari fungs utamanya, prototipe in juga mampu mendeteksi arus balik pada kabel netral sehingga admin akan mendapatkan informasi jika terjadi arus yang mengalir secara tidak wajar pada sistem. Sebagai project IoT, sistem ini juga terhubung dengan Telegram melalui WiFi pada ESP8266 sebagai basis kontrol serta monitoringnya menggunakan ponsel. Komponen yang digunakan pada proyek ini adalah :
+Selain dari fungs utamanya, prototipe in juga mampu mendeteksi arus balik pada kabel netral sehingga admin akan mendapatkan informasi jika terjadi arus yang mengalir secara tidak wajar pada sistem. Sebagai project IoT, sistem ini juga terhubung dengan Telegram melalui WiFi pada ESP8266 sebagai basis kontrol serta monitoringnya menggunakan ponsel.
+Komponen yang digunakan pada proyek ini:
 1. STM32 F103C8T6
 2. ESP8266
 3. PZEM-004t
