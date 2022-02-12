@@ -1,4 +1,4 @@
-#STM32 ESP8266 Smart Energy Monitoring Over Telegram
+# STM32 ESP8266 Smart Energy Monitoring Over Telegram
 
 Overview
 ===
