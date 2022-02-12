@@ -9,7 +9,7 @@ Moreover, it could also detect back-ward current flow on neutral wire so that ad
 1. STM32 F103C8T6
 2. ESP8266
 3. PZEM-004t
-4. ACS712 (5A)
+4. ACS712
 5. LCD 16x2
 6. I2C
 7. MicroSD Module
@@ -26,7 +26,7 @@ Selain dari fungs utamanya, prototipe in juga mampu mendeteksi arus balik pada k
 1. STM32 F103C8T6
 2. ESP8266
 3. PZEM-004t
-4. ACS712 (5A)
+4. ACS712
 5. LCD 16x2
 6. I2C
 7. MicroSD Module
