@@ -1,0 +1,7 @@
+# STM32_ESP8266_SMART_ENERGY
+
+BOT LINK  > t.me/stm32dv_bot
+BOT ID    > 5092249826:AAF6SZk5xPjPBz32rpLFOTTt_Bc-EzhLiMw
+
+Type '/start' after join chat room to begin communication with both.
+Bot will be replied whenever system connected to WiFi intenet, otherwise bot could not respond any of user command.
